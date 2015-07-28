@@ -8,7 +8,7 @@ Plugin Name: Upload Media
 Plugin URL: 
 Description: A skeleton of a media upload plugin
 Version: 1.0
-Author URI: 
+Author: Aaron Rhoades 
 */
 
 //Assign a name to your tab
